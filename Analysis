@@ -1,0 +1,62 @@
+## 📊 Sales Dashboard Analysis & Insights
+
+### 1️⃣ Order Overview
+The dashboard shows a total of **3510 orders** during the analyzed period, indicating consistent customer activity and steady transaction flow.
+
+**Insight:**  
+The business maintains stable order volume, suggesting strong customer engagement and repeat purchases.
+
+---
+
+### 2️⃣ Promotion Discount Analysis
+Average discount values across promotions:
+
+| Promotion | Avg Discount |
+|-----------|--------------|
+| Weekend Flash Sale | Highest |
+| Clearance Sale | High |
+| Summer Sale | Moderate |
+| New Year Special | Low |
+| Festive Diwali | Very Low |
+
+**Insight:**  
+Flash sales and clearance sales offer the highest discounts, likely used to boost sales volume and clear inventory.
+
+---
+
+### 3️⃣ Profit vs Net Sales Relationship
+The scatter plot shows a **positive relationship between Net Sales and Profit**.
+
+**Insight:**  
+Higher sales generally lead to higher profits, indicating healthy profit margins and effective pricing strategies.
+
+---
+
+### 4️⃣ Sales Trend Over Time
+The time-series analysis (2020–2024) shows fluctuating but generally increasing sales trends with noticeable spikes.
+
+**Insight:**  
+Sales spikes likely correspond to **seasonal demand or promotional campaigns**.
+
+---
+
+### 5️⃣ Sales Distribution Pattern
+Most transactions are smaller orders with occasional larger spikes.
+
+**Insight:**  
+The business follows a **high-frequency retail purchase pattern** rather than relying on a few large bulk orders.
+
+---
+
+### 📌 Overall Business Insights
+- Promotions significantly influence sales performance.
+- Profit grows proportionally with sales, indicating stable margins.
+- High order frequency suggests strong customer engagement.
+
+---
+
+### 🚀 Strategic Recommendations
+- Continue leveraging **flash sales** to boost sales volume.
+- Align marketing campaigns with high-performing sales periods.
+- Focus on expanding high-margin products.
+- Improve festive promotional strategies for better seasonal performance.
